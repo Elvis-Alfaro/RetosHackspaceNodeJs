@@ -1,0 +1,21 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^3.0.1",
+    "h2o2": "^5.0.0",
+    "handlebars": "^4.0.5",
+    "inert": "^3.2.0",
+    "path": "^0.12.7",
+    "vision": "^4.0.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
